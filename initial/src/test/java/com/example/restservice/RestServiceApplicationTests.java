@@ -18,8 +18,15 @@ public class RestServiceApplicationTests {
 //// this is ismaisl 44th commint becau he wnast aadd 4t filr
 // adding somethiong in 2ndbrach without crating an new branch
 
-// making some chanegsgit branch her to see how git diff works
+// git brmaking some chanegsgit branch her to see how git diff works
 
  */
 
 /// I ma writingthos to too -- staged or cahed
+/*
+I am testing thi s2nd day my git knowledge by creatingv a branch an dcrating a pul  request
+ */
+
+/*
+I am doing this to create a test branch and remove the branch without creating an MR, spell check.
+ */
