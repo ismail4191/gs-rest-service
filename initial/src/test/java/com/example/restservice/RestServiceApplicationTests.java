@@ -5,7 +5,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class RestServiceApplicationTests {
+public class
+RestServiceApplicationTests {
 //Ismail making changes as juist fro fun 3 rd pull
   @Test
   public void contextLoads() {
@@ -29,6 +30,9 @@ I am testing thi s2nd day my git knowledge by creatingv a branch an dcrating a p
 
 /*
 I am doing this to create a test branch and remove the branch without creating an MR, spell check.
+
+THis is pull rewut for july 22nd
+
  */
 
 /*
